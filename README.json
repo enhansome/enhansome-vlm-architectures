@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T11:50:14.740Z",
-    "original_repository": "gokayfem/awesome-vlm-architectures",
-    "original_repository_id": 758120111,
+    "last_updated": "2026-08-27T12:11:39.613Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 758120111,
+      "language": "Markdown",
+      "last_commit": "2026-07-31T21:58:54Z",
+      "owner": "gokayfem",
+      "repo": "awesome-vlm-architectures",
+      "stars": 1306
+    },
     "original_repository_sha": "74897b3aa1df6d5fb262ffc62972c822a15b36b2",
     "enhanced_repository": "enhansome/enhansome-vlm-architectures",
     "enhanced_repository_description": null,
