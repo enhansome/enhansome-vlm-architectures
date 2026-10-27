@@ -1,19 +1,19 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-26T17:26:47.803Z",
+    "last_updated": "2026-10-27T16:43:51.271Z",
     "original_repository_info": {
       "archived": false,
-      "description": "Curated visual catalog of 155+ vision-language model (VLM/MLLM) architectures: papers, diagrams, training recipes, datasets, and a release timeline for multimodal AI agents.",
+      "description": "Curated visual catalog of 200+ vision-language model (VLM/MLLM) architectures: papers, diagrams, training recipes, datasets, and a release timeline for multimodal AI agents.",
       "homepage": null,
       "id": 758120111,
       "language": "Markdown",
       "license": "CC0-1.0",
-      "last_commit": "2026-07-31T21:58:54Z",
+      "last_commit": "2026-10-27T08:57:17Z",
       "open_issues": 1,
       "owner": "gokayfem",
       "repo": "awesome-vlm-architectures",
-      "stars": 1342,
+      "stars": 1345,
       "topics": [
         "ai-agents",
         "architecture-diagrams",
@@ -37,7 +37,7 @@
         "vlm"
       ]
     },
-    "original_repository_sha": "74897b3aa1df6d5fb262ffc62972c822a15b36b2",
+    "original_repository_sha": "27ba694799437b66dbfe39eda69bbba600ada4bd",
     "enhanced_repository": "enhansome/enhansome-vlm-architectures",
     "enhanced_repository_description": null,
     "title": "👁️‍🗨️ Awesome VLM Architectures with stars"
