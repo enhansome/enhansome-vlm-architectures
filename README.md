@@ -317,7 +317,7 @@ Training combines rendered documents, scientific PDFs, tables, and synthetic wor
 
 A Mamba-Transformer mixture-of-experts backbone combines a C-RADIO visual encoder with long-context image and video reasoning.
 
-[![Paper](https://img.shields.io/badge/Report-Primary_source-b31b1b.svg?style=flat-square)](https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3.5-Super-and-Lightning-Technical-Report.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/NVIDIA-NeMo/Nemotron) ⭐ 2,331 | 🐛 98 | 🌐 Jupyter Notebook | 📅 2026-11-12 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Super-and-Lightning/)
+[![Paper](https://img.shields.io/badge/Report-Primary_source-b31b1b.svg?style=flat-square)](https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3.5-Super-and-Lightning-Technical-Report.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/NVIDIA-NeMo/Nemotron) ⭐ 2,339 | 🐛 98 | 🌐 Jupyter Notebook | 📅 2026-11-12 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Super-and-Lightning/)
 
 NVIDIA<br>
 **Released:** 2026-10-15
@@ -434,7 +434,7 @@ The release provides inference examples and evaluations across text, visual, and
 
 A shared visual-language backbone supports separate autoregressive and parallel diffusion checkpoints for spatial predictions.
 
-[![Paper](https://img.shields.io/badge/arXiv-2609.39600-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2609.39600) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/groundingpi/GroundAnything) ⭐ 120 | 🐛 3 | 🌐 Python | 📅 2026-10-31 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/GroundingPI/GroundAnything-VLM)
+[![Paper](https://img.shields.io/badge/arXiv-2609.39600-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2609.39600) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/groundingpi/GroundAnything) ⭐ 122 | 🐛 3 | 🌐 Python | 📅 2026-10-31 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/GroundingPI/GroundAnything-VLM)
 
 Qize Yu et al., GroundingPI and collaborators<br>
 **Released:** 2026-09-30
@@ -464,7 +464,7 @@ Tasks span object localization, referring expressions, pointing, OCR, document l
 
 A family of visual agents combines screenshot-based interaction with code, API, and MCP tools through task-factory training.
 
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hcompai/hai-agents-python) ⭐ 46 | 🐛 7 | 🌐 Python | 📅 2026-11-12 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/Hcompany/Holo4-35B-A3B) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://hcompany.ai/newsroom/holo4)
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hcompai/hai-agents-python) ⭐ 46 | 🐛 6 | 🌐 Python | 📅 2026-11-13 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/Hcompany/Holo4-35B-A3B) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://hcompany.ai/newsroom/holo4)
 
 H Company<br>
 **Released:** 2026-09-28
@@ -520,7 +520,7 @@ The report details coding and general-agent task construction, verifiers, and mu
 
 A sparse hybrid Thinker combines vision, general audio, and spatial audio encoders for long-context multimodal agent work.
 
-[![Paper](https://img.shields.io/badge/arXiv-2609.25611-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2609.25611) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen-MM-Plugins) ⭐ 3,203 | 🐛 16 | 🌐 Python | 📅 2026-11-10 [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://qwen.ai/blog?id=qwen3.8-omni-flash)
+[![Paper](https://img.shields.io/badge/arXiv-2609.25611-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2609.25611) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen-MM-Plugins) ⭐ 3,205 | 🐛 16 | 🌐 Python | 📅 2026-11-10 [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://qwen.ai/blog?id=qwen3.8-omni-flash)
 
 Qwen Team<br>
 **Released:** 2026-09-18
@@ -724,7 +724,7 @@ The report covers web, code, mathematics, documents, image captions, and synthet
 
 A shared VLM supports visual questions, explicit 3D perception, and flow-matching trajectory planning through external heads.
 
-[![Paper](https://img.shields.io/badge/arXiv-2609.00111-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2609.00111) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen-Drive-1.0) ⭐ 555 | 🐛 11 | 🌐 Python | 📅 2026-09-03 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/Qwen/Qwen-Drive-1.0-4B)
+[![Paper](https://img.shields.io/badge/arXiv-2609.00111-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2609.00111) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen-Drive-1.0) ⭐ 556 | 🐛 12 | 🌐 Python | 📅 2026-09-03 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/Qwen/Qwen-Drive-1.0-4B)
 
 Xin Zhou et al., Qwen Team<br>
 **Released:** 2026-08-31
@@ -754,7 +754,7 @@ Training unifies labels and trajectories across driving datasets, with consisten
 
 A newly pretrained multimodal MoE combines sparse and linear attention with manifold-constrained residual connections.
 
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/zai-org/GLM-5) ⭐ 7,456 | 🐛 21 | 📅 2026-10-15 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/zai-org/GLM-5.3-Flash)
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/zai-org/GLM-5) ⭐ 7,458 | 🐛 19 | 📅 2026-10-15 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/zai-org/GLM-5.3-Flash)
 
 Z.ai<br>
 **Released:** 2026-08-26
@@ -782,7 +782,7 @@ The public checkpoint accepts visual and textual inputs and generates text under
 
 Gated DeltaNet and micro-block sparse attention combine with n-gram memory and widened residual streams for efficient multimodal inference.
 
-[![Paper](https://img.shields.io/badge/arXiv-2608.30320-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2608.30320) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen3.8-Flash-Next) ⭐ 473 | 🐛 9 | 📅 2026-08-27 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://github.com/QwenLM/Qwen3.8-Flash-Next) ⭐ 473 | 🐛 9 | 📅 2026-08-27
+[![Paper](https://img.shields.io/badge/arXiv-2608.30320-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2608.30320) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen3.8-Flash-Next) ⭐ 475 | 🐛 9 | 📅 2026-08-27 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://github.com/QwenLM/Qwen3.8-Flash-Next) ⭐ 475 | 🐛 9 | 📅 2026-08-27
 
 Qwen Team<br>
 **Released:** 2026-08-26
@@ -976,7 +976,7 @@ Training first learns the quantizer and image decoder, then initializes the lang
 
 Kimi K3 is a native multimodal sparse MoE that combines Kimi Delta Attention, gated latent attention, Attention Residuals, and 896 routed experts for million-token reasoning and agency.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2607.24653-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2607.24653) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MoonshotAI/Kimi-K3) ⭐ 9,078 | 🐛 34 | 📅 2026-08-06 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/moonshotai/Kimi-K3)
+[![arXiv](https://img.shields.io/badge/arXiv-2607.24653-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2607.24653) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MoonshotAI/Kimi-K3) ⭐ 9,079 | 🐛 34 | 📅 2026-08-06 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/moonshotai/Kimi-K3)
 
 Kimi Team, Moonshot AI<br>
 **Released:** 2026-07-27
@@ -1138,7 +1138,7 @@ Its curriculum moves from action-relevant state understanding to transition reas
 
 MonkeyOCRv2 learns document vision jointly through image-to-text generation and pixel reconstruction, preserving both semantic content and character-level strokes across 17 languages.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2607.11562-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2607.11562) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Yuliang-Liu/MonkeyOCRv2) ⭐ 1,667 | 🐛 0 | 🌐 Python | 📅 2026-09-15
+[![arXiv](https://img.shields.io/badge/arXiv-2607.11562-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2607.11562) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Yuliang-Liu/MonkeyOCRv2) ⭐ 1,668 | 🐛 0 | 🌐 Python | 📅 2026-09-15
 
 Yuliang Liu et al.<br>
 **Released:** 2026-07-11
@@ -1298,7 +1298,7 @@ The released 109B-parameter model is trained natively across modalities and eval
 
 Cosmos 3 couples an autoregressive reasoner with a diffusion generator through a shared representation for language, vision, audio, actions, simulation, and robot control.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2606.02800-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2606.02800) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/NVIDIA/cosmos) ⭐ 12,358 | 🐛 16 | 📅 2026-11-11 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-blue?style=flat-square)](https://huggingface.co/collections/nvidia/cosmos3)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.02800-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2606.02800) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/NVIDIA/cosmos) ⭐ 12,360 | 🐛 16 | 📅 2026-11-11 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-blue?style=flat-square)](https://huggingface.co/collections/nvidia/cosmos3)
 
 NVIDIA<br>
 **Released:** 2026-05-31
@@ -1324,7 +1324,7 @@ Nano configurations combine 8B-class components and Super configurations combine
 
 A visual-agent family learns computer interaction from verified trajectories generated in live and synthetic environments.
 
-[![Paper](https://img.shields.io/badge/arXiv-2606.20785-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2606.20785) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/microsoft/fara) ⭐ 6,254 | 🐛 45 | 🌐 Python | 📅 2026-09-22 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/microsoft/Fara1.5-27B)
+[![Paper](https://img.shields.io/badge/arXiv-2606.20785-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2606.20785) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/microsoft/fara) ⭐ 6,255 | 🐛 45 | 🌐 Python | 📅 2026-09-22 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/microsoft/Fara1.5-27B)
 
 Microsoft Research<br>
 **Released:** 2026-05-21
@@ -1540,7 +1540,7 @@ Text, images, video, and audio produce text. The release includes BF16/FP8/NVFP4
 
 A native mixture-of-transformers model unifies visual understanding and generation through lightweight pixel interfaces without a separate pretrained vision encoder or VAE.
 
-[![Paper](https://img.shields.io/badge/arXiv-2609.11929-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2609.11929) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/OpenSenseNova/SenseNova-U1) ⭐ 6,943 | 🐛 23 | 🌐 Python | 📅 2026-11-12 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://github.com/OpenSenseNova/SenseNova-U1) ⭐ 6,943 | 🐛 23 | 🌐 Python | 📅 2026-11-12
+[![Paper](https://img.shields.io/badge/arXiv-2609.11929-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2609.11929) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/OpenSenseNova/SenseNova-U1) ⭐ 6,945 | 🐛 24 | 🌐 Python | 📅 2026-11-13 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://github.com/OpenSenseNova/SenseNova-U1) ⭐ 6,945 | 🐛 24 | 🌐 Python | 📅 2026-11-13
 
 SenseNova Team<br>
 **Released:** 2026-04-27
@@ -1786,7 +1786,7 @@ Vision-language instruction tuning uses M3IT, which spans image and video inputs
 
 Qwen3.5 unifies text, image, and video understanding in one model family while combining hybrid linear attention with sparse expert routing. Qwen3.6 continues the same native-multimodal direction with stronger agentic coding and updated dense and MoE checkpoints.
 
-[![Blog](https://img.shields.io/badge/Official-Qwen3.5-b31b1b?style=flat-square)](https://qwen.ai/blog?id=qwen3.5) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen3.6) ⭐ 4,421 | 🐛 7 | 📅 2026-08-17 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)
+[![Blog](https://img.shields.io/badge/Official-Qwen3.5-b31b1b?style=flat-square)](https://qwen.ai/blog?id=qwen3.5) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen3.6) ⭐ 4,424 | 🐛 6 | 📅 2026-08-17 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)
 
 Qwen Team<br>
 **Released:** 2026-02-16
@@ -1806,7 +1806,7 @@ The training pipeline combines large-scale multimodal pretraining with supervise
 
 **Qwen3.6** is best treated as a continuation of this architecture rather than a separate VLM family. Its open dense and sparse checkpoints retain native multimodality and unified thinking and non-thinking modes while prioritizing stability and agentic coding. Folding these releases into the Qwen3.5 entry keeps the catalog focused on architectural changes rather than model-version churn.
 
-**Qwen3.8 Max and 27B** continue this native multimodal family; the official repository records weight releases on August 12 and August 14, 2026. Max scales the sparse model to 2.4T total and 95B active parameters. These releases remain grouped here; **Qwen3.8-Flash-Next**, with its separately documented sparse-attention and n-gram-memory design, has its own entry. The existing Qwen3.5 figure is a family reference, not a Qwen3.8-specific diagram. [Official releases](https://github.com/QwenLM/Qwen3.8) ⭐ 4,421 | 🐛 7 | 📅 2026-08-17
+**Qwen3.8 Max and 27B** continue this native multimodal family; the official repository records weight releases on August 12 and August 14, 2026. Max scales the sparse model to 2.4T total and 95B active parameters. These releases remain grouped here; **Qwen3.8-Flash-Next**, with its separately documented sparse-attention and n-gram-memory design, has its own entry. The existing Qwen3.5 figure is a family reference, not a Qwen3.8-specific diagram. [Official releases](https://github.com/QwenLM/Qwen3.8) ⭐ 4,424 | 🐛 6 | 📅 2026-08-17
 
 </details>
 
@@ -1866,7 +1866,7 @@ Released April 20, **Kimi K2.6** retains the K2.5 architecture while extending c
 
 A compact page-to-text architecture adds localized document elements, chart extraction, and verification-based training.
 
-[![Paper](https://img.shields.io/badge/arXiv-2601.14251-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2601.14251) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/lightonai/LightOnOCR) ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2026-10-08 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/lightonai/LightOnOCR-3-4B) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://huggingface.co/blog/lightonai/lightonocr-3)
+[![Paper](https://img.shields.io/badge/arXiv-2601.14251-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2601.14251) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/lightonai/LightOnOCR) ⭐ 75 | 🐛 2 | 🌐 Python | 📅 2026-10-08 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/lightonai/LightOnOCR-3-4B) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://huggingface.co/blog/lightonai/lightonocr-3)
 
 Said Taghadouini, Adrien Cavaillès, and Baptiste Aubertin, LightOn<br>
 **Released:** 2026-01-20
@@ -1920,7 +1920,7 @@ Images combine one 728×728 global view with 504×504 local crops, treated as in
 
 A grounded image-video model extends open multimodal training to temporal pointing, tracking, and multi-image reasoning.
 
-[![Paper](https://img.shields.io/badge/arXiv-2601.10611-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2601.10611) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/allenai/molmo2) ⭐ 757 | 🐛 9 | 🌐 Python | 📅 2026-03-18 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/allenai/Molmo2-8B) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://allenai.org/blog/molmo2)
+[![Paper](https://img.shields.io/badge/arXiv-2601.10611-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2601.10611) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/allenai/molmo2) ⭐ 758 | 🐛 9 | 🌐 Python | 📅 2026-03-18 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/allenai/Molmo2-8B) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://allenai.org/blog/molmo2)
 
 Christopher Clark et al., Allen Institute for AI and University of Washington<br>
 **Released:** 2025-12-11
@@ -2028,7 +2028,7 @@ Elastic depth, width, and top-k sparsity train a super-network from which smalle
 
 A native discrete-token model learns interleaved visual-language sequences and explores parallel decoding through diffusion adaptation.
 
-[![Paper](https://img.shields.io/badge/arXiv-2510.26583-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2510.26583) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/baaivision/Emu3.5) ⭐ 1,565 | 🐛 33 | 🌐 Python | 📅 2025-12-30 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/BAAI/Emu3.5)
+[![Paper](https://img.shields.io/badge/arXiv-2510.26583-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2510.26583) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/baaivision/Emu3.5) ⭐ 1,566 | 🐛 33 | 🌐 Python | 📅 2025-12-30 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/BAAI/Emu3.5)
 
 Yufeng Cui et al., BAAI<br>
 **Released:** 2025-10-30
@@ -2086,7 +2086,7 @@ The card inventories approximately 39.5M samples from 270 text, image-text, and 
 
 DeepSeek-OCR treats document vision as a context-compression mechanism, representing thousands of text tokens with a much smaller sequence of visual tokens before decoding them with a sparse language model.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2510.18234-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2510.18234) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 24,147 | 🐛 287 | 🌐 Python | 📅 2026-01-27 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/deepseek-ai/DeepSeek-OCR)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.18234-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2510.18234) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 24,153 | 🐛 287 | 🌐 Python | 📅 2026-01-27 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/deepseek-ai/DeepSeek-OCR)
 
 DeepSeek-AI<br>
 **Released:** 2025-10-20
@@ -2106,7 +2106,7 @@ DeepSeek-AI<br>
 
 Training first develops the encoder's visual-text representation and then jointly optimizes document decoding with the MoE language model. Data covers multilingual text pages, natural images, formulas, tables, charts, diagrams, and structured document conversion, supplemented with synthetic renderings. The work frames OCR as an experiment in optical compression for future long-context memory, rather than only a document benchmark model.
 
-**DeepSeek-OCR 2**, released January 27, 2026, replaces the fixed raster-scan assumption with **DeepEncoder V2** and Visual Causal Flow. The encoder dynamically reorders visual tokens according to document semantics before language decoding, exploring whether cascaded one-dimensional causal reasoning can better represent complex two-dimensional layouts. [Paper](https://arxiv.org/abs/2601.20552) · [Repository](https://github.com/deepseek-ai/DeepSeek-OCR-2) ⭐ 3,546 | 🐛 56 | 🌐 Python | 📅 2026-02-03
+**DeepSeek-OCR 2**, released January 27, 2026, replaces the fixed raster-scan assumption with **DeepEncoder V2** and Visual Causal Flow. The encoder dynamically reorders visual tokens according to document semantics before language decoding, exploring whether cascaded one-dimensional causal reasoning can better represent complex two-dimensional layouts. [Paper](https://arxiv.org/abs/2601.20552) · [Repository](https://github.com/deepseek-ai/DeepSeek-OCR-2) ⭐ 3,548 | 🐛 56 | 🌐 Python | 📅 2026-02-03
 
 </details>
 
@@ -2144,7 +2144,7 @@ A curation and synthesis pipeline produces 24M conversations from public audio, 
 
 PaddleOCR-VL combines a NaViT-style dynamic-resolution encoder with ERNIE-4.5-0.3B to parse multilingual documents using only 0.9B parameters.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2510.14528-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2510.14528) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 92,634 | 🐛 261 | 🌐 Python | 📅 2026-09-16 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/PaddlePaddle/PaddleOCR-VL)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.14528-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2510.14528) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 92,673 | 🐛 262 | 🌐 Python | 📅 2026-09-16 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/PaddlePaddle/PaddleOCR-VL)
 
 PaddleOCR Team, Baidu<br>
 **Released:** 2025-10-16
@@ -2170,7 +2170,7 @@ Its curriculum combines element-level recognition with page-level document parsi
 
 A Thinker-Talker mixture-of-experts system performs multimodal perception and generates streaming text and speech.
 
-[![Paper](https://img.shields.io/badge/arXiv-2509.17765-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2509.17765) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen3-Omni) ⭐ 4,102 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-04-23 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://github.com/QwenLM/Qwen3-Omni) ⭐ 4,102 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-04-23
+[![Paper](https://img.shields.io/badge/arXiv-2509.17765-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2509.17765) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen3-Omni) ⭐ 4,105 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-04-23 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://github.com/QwenLM/Qwen3-Omni) ⭐ 4,105 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-04-23
 
 Qwen Team<br>
 **Released:** 2025-09-22
@@ -2198,7 +2198,7 @@ The release covers text, images, audio, and video. Public code and Apache-licens
 
 Qwen3-VL expands the Qwen vision-language family with dense and sparse-MoE checkpoints, native long multimodal context, and stronger spatial, video, OCR, visual-agent, and visual-coding capabilities.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2511.21631-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2511.21631) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen3-VL) ⭐ 20,204 | 🐛 441 | 🌐 Jupyter Notebook | 📅 2026-01-30 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-blue?style=flat-square)](https://huggingface.co/collections/Qwen/qwen3-vl)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.21631-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2511.21631) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen3-VL) ⭐ 20,211 | 🐛 441 | 🌐 Jupyter Notebook | 📅 2026-01-30 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-blue?style=flat-square)](https://huggingface.co/collections/Qwen/qwen3-vl)
 
 Qwen Team<br>
 **Released:** 2025-09-22
@@ -2226,7 +2226,7 @@ The technical report describes a broad mixture of text, image-text, document, OC
 
 A small active-parameter MoE combines token-efficient multi-crop vision with learned attention-temperature scaling.
 
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/vikhyat/moondream) ⭐ 10,158 | 🐛 246 | 🌐 Python | 📅 2026-04-20 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/moondream/moondream3-preview) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://moondream.ai/blog/moondream-3-preview)
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/vikhyat/moondream) ⭐ 10,160 | 🐛 246 | 🌐 Python | 📅 2026-04-20 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/moondream/moondream3-preview) [![Source](https://img.shields.io/badge/Official-Source-blue?style=flat-square)](https://moondream.ai/blog/moondream-3-preview)
 
 Moondream / M87 Labs<br>
 **Released:** 2025-09-18
@@ -2366,7 +2366,7 @@ Pretraining draws on curated caption pairs, knowledge-rich web and academic-book
 
 ERNIE 4.5-VL combines shared and modality-specific experts with isolated routing and balancing losses so visual learning can reinforce rather than degrade language capability.
 
-[![Website](https://img.shields.io/badge/Report-ERNIE_4.5-blue?style=flat-square)](https://ernie.baidu.com/blog/posts/ernie4.5/) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PaddlePaddle/ERNIE) ⭐ 7,740 | 🐛 80 | 🌐 Python | 📅 2026-07-24 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-blue?style=flat-square)](https://huggingface.co/collections/baidu/ernie-45)
+[![Website](https://img.shields.io/badge/Report-ERNIE_4.5-blue?style=flat-square)](https://ernie.baidu.com/blog/posts/ernie4.5/) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PaddlePaddle/ERNIE) ⭐ 7,740 | 🐛 79 | 🌐 Python | 📅 2026-07-24 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-blue?style=flat-square)](https://huggingface.co/collections/baidu/ernie-45)
 
 Baidu ERNIE Team<br>
 **Released:** 2025-06-30
@@ -2498,7 +2498,7 @@ Training progresses through vision-language pretraining, instruction tuning, lon
 
 A reproducible vision-language family combines a perception encoder with compact decoders and detailed human-annotated video supervision.
 
-[![Paper](https://img.shields.io/badge/arXiv-2504.13180-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2504.13180) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/perception_models) ⭐ 2,408 | 🐛 55 | 🌐 Jupyter Notebook | 📅 2026-04-13 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/facebook/Perception-LM-3B)
+[![Paper](https://img.shields.io/badge/arXiv-2504.13180-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2504.13180) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/perception_models) ⭐ 2,410 | 🐛 55 | 🌐 Jupyter Notebook | 📅 2026-04-13 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/facebook/Perception-LM-3B)
 
 Jang Hyun Cho et al., Meta FAIR<br>
 **Released:** 2025-04-17
@@ -2528,7 +2528,7 @@ PLM-FGQA, PLM-STC, and smart-glasses QA provide detailed video supervision; PLM-
 
 A contrastively pretrained encoder family adapts shared visual representations for image-video retrieval, language models, and dense spatial tasks.
 
-[![Paper](https://img.shields.io/badge/arXiv-2504.13181-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2504.13181) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/perception_models) ⭐ 2,408 | 🐛 55 | 🌐 Jupyter Notebook | 📅 2026-04-13 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/facebook/PE-Core-G14-448)
+[![Paper](https://img.shields.io/badge/arXiv-2504.13181-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2504.13181) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/perception_models) ⭐ 2,410 | 🐛 55 | 🌐 Jupyter Notebook | 📅 2026-04-13 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/facebook/PE-Core-G14-448)
 
 Bolya et al., Meta FAIR<br>
 **Released:** 2025-04-17
@@ -2565,7 +2565,7 @@ Training combines image-text and video-text supervision. The public repository s
 
 InternVL3 moves the InternVL family to native multimodal pretraining, while InternVL3.5 adds coarse-to-fine reinforcement learning and dynamically routed visual resolution.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2504.10479-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2504.10479) [![arXiv](https://img.shields.io/badge/arXiv-2508.18265-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.18265) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/OpenGVLab/InternVL) ⭐ 10,169 | 🐛 318 | 🌐 Python | 📅 2025-09-22 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-blue?style=flat-square)](https://huggingface.co/collections/OpenGVLab/internvl35)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.10479-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2504.10479) [![arXiv](https://img.shields.io/badge/arXiv-2508.18265-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.18265) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/OpenGVLab/InternVL) ⭐ 10,168 | 🐛 318 | 🌐 Python | 📅 2025-09-22 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-blue?style=flat-square)](https://huggingface.co/collections/OpenGVLab/internvl35)
 
 InternVL Team, OpenGVLab<br>
 **Released:** 2025-04-11
@@ -2641,7 +2641,7 @@ Scout was trained on roughly 40T tokens and Maverick on roughly 22T. Meta descri
 
 Qwen2.5-Omni understands text, images, audio, and video while generating text and natural speech through a streaming Thinker-Talker architecture.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2503.20215-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2503.20215) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen2.5-Omni) ⭐ 4,097 | 🐛 224 | 🌐 Jupyter Notebook | 📅 2025-06-12 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/Qwen/Qwen2.5-Omni-7B)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.20215-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2503.20215) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen2.5-Omni) ⭐ 4,098 | 🐛 224 | 🌐 Jupyter Notebook | 📅 2025-06-12 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/Qwen/Qwen2.5-Omni-7B)
 
 Qwen Team<br>
 **Released:** 2025-03-26
@@ -2667,7 +2667,7 @@ A sliding-window diffusion transformer converts audio tokens into waveform outpu
 
 Gemma 3 combines a frozen SigLIP vision encoder with a decoder-only language model whose five-local-to-one-global attention pattern reduces long-context KV-cache cost while retaining 128K-token multimodal context.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2503.19786-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2503.19786) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-deepmind/gemma) ⭐ 5,843 | 🐛 341 | 🌐 Python | 📅 2026-10-28 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-blue?style=flat-square)](https://huggingface.co/collections/google/gemma-3-release)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.19786-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2503.19786) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-deepmind/gemma) ⭐ 5,846 | 🐛 341 | 🌐 Python | 📅 2026-10-28 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-blue?style=flat-square)](https://huggingface.co/collections/google/gemma-3-release)
 
 Gemma Team<br>
 **Released:** 2025-03-12
@@ -2745,7 +2745,7 @@ Its data recipe builds on the language, vision, and speech research used for Phi
 
 SigLIP 2 extends sigmoid-loss image-text pretraining into a multilingual, localization-aware representation learner, with NaFlex checkpoints that preserve native aspect ratios and support multiple token budgets from one model.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2502.14786-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2502.14786) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/big_vision) ⭐ 3,572 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2025-05-19 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-blue?style=flat-square)](https://huggingface.co/collections/google/siglip2)
+[![arXiv](https://img.shields.io/badge/arXiv-2502.14786-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2502.14786) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/big_vision) ⭐ 3,573 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2025-05-19 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-blue?style=flat-square)](https://huggingface.co/collections/google/siglip2)
 
 Michael Tschannen, Alexey Gritsenko, Xiao Wang, Muhammad Ferjad Naeem, Ibrahim Alabdulmohsin, Nikhil Parthasarathy, Talfan Evans, Lucas Beyer, et al.<br>
 **Released:** 2025-02-20
@@ -2797,7 +2797,7 @@ EVEv2 departs from the traditional encoder-based VLM approach.  Instead of relyi
 Qwen2.5-VL represents a significant advancement in the Qwen series of vision-language models, offering improved image recognition, precise object grounding, enhanced text recognition, document parsing, and video comprehension, while also functioning as a visual agent capable of computer and phone use.
 
 [![arXiv](https://img.shields.io/badge/Blog-Qwen%20Team%20Blog-b31b1b.svg?style=flat-square)](https://qwenlm.github.io/blog/qwen2.5-vl/)
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen2.5-VL) ⭐ 20,204 | 🐛 441 | 🌐 Jupyter Notebook | 📅 2026-01-30
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen2.5-VL) ⭐ 20,211 | 🐛 441 | 🌐 Jupyter Notebook | 📅 2026-01-30
 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct)<br>
 Qwen Team
 
@@ -2867,7 +2867,7 @@ UI-TARS leverages several key innovations: (1) **Enhanced Perception**, utilizin
 MiniMax-01 is a series of large foundation models, including MiniMax-Text-01 and MiniMax-VL-01, that achieve performance comparable to top-tier models (like GPT-4o and Claude-3.5-Sonnet) while offering significantly longer context windows (up to 4 million tokens).  It achieves this through a novel architecture incorporating lightning attention (a highly efficient linear attention variant), Mixture of Experts (MoE), and optimized training/inference frameworks.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2501.08313-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2501.08313)
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MiniMax-AI/MiniMax-01) ⭐ 3,473 | 🐛 9 | 🌐 Python | 📅 2025-07-07
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MiniMax-AI/MiniMax-01) ⭐ 3,474 | 🐛 9 | 🌐 Python | 📅 2025-07-07
 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/MiniMaxAI/MiniMax-VL-01)<br>
 MiniMax, Aonian Li, Bangwei Gong, Bo Yang, Boji Shan, Chang Liu, Cheng Zhu, Chunhao Zhang, Congchao Guo, Da Chen, Dong Li, Enwei Jiao, Gengxin Li, Guojun Zhang, Haohai Sun, Houze Dong, Jiadai Zhu, Jiaqi Zhuang, Jiayuan Song, Jin Zhu, Jingtao Han, Jingyang Li, Junbin Xie, Junhao Xu, Junjie Yan, Kaishun Zhang, Kecheng Xiao, Kexi Kang, Le Han, Leyang Wang, Lianfei Yu, Liheng Feng, Lin Zheng, Linbo Chai, Long Xing, Meizhi Ju, Mingyuan Chi, Mozhi Zhang, Peikai Huang, Pengcheng Niu, Pengfei Li, Pengyu Zhao, Qi Yang, Qidi Xu, Qiexiang Wang, Qin Wang, Qiuhui Li, Ruitao Leng, Shengmin Shi, Shuqi Yu, Sichen Li, Songquan Zhu, Tao Huang, Tianrun Liang, Weigao Sun, Weixuan Sun, Weiyu Cheng, Wenkai Li, Xiangjun Song, Xiao Su, Xiaodong Han, Xinjie Zhang, Xinzhu Hou, Xu Min, Xun Zou, Xuyang Shen, Yan Gong, Yingjie Zhu, Yipeng Zhou, Yiran Zhong, Yongyi Hu, Yuanxiang Fan, Yue Yu, Yufeng Yang, Yuhao Li, Yunan Huang, Yunji Li, Yunpeng Huang, Yunzhi Xu, Yuxin Mao, Zehan Li, Zekang Li, Zewei Tao, Zewen Ying, Zhaoyang Cong, Zhen Qin, Zhenhua Fan, Zhihang Yu, Zhuo Jiang, Zijia Wu
 
@@ -2892,7 +2892,7 @@ MiniMax, Aonian Li, Bangwei Gong, Bo Yang, Boji Shan, Chang Liu, Cheng Zhu, Chun
 MiniCPM-o-2.6 is a powerful 8B parameter multimodal large language model (MLLM) that excels in vision, speech, and multimodal live streaming, achieving performance comparable to GPT-4o in several benchmarks, while maintaining high efficiency for deployment on edge devices.
 
 [![arXiv](https://img.shields.io/badge/Blog-MiniCPM%20Team%20Blog-b31b1b.svg?style=flat-square)](https://openbmb.notion.site/MiniCPM-o-2-6-A-GPT-4o-Level-MLLM-for-Vision-Speech-and-Multimodal-Live-Streaming-on-Your-Phone-185ede1b7a558042b5d5e45e6b237da9)
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/OpenBMB/MiniCPM-o) ⭐ 27,137 | 🐛 66 | 🌐 Python | 📅 2026-11-09
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/OpenBMB/MiniCPM-o) ⭐ 27,143 | 🐛 66 | 🌐 Python | 📅 2026-11-09
 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/openbmb/MiniCPM-o-2_6)<br>
 OpenBMB
 
@@ -2914,7 +2914,7 @@ OpenBMB
 
 MiniCPM-o-2.6 employs an end-to-end omni-modal architecture.  It integrates several pre-trained components: **Vision Encoder:** SigLip-400M **Audio Encoder:** Whisper-medium-300M **Text-to-Speech (TTS):** ChatTTS-200M **Large Language Model (LLM):** Qwen2.5-7B. These components are connected and trained end-to-end.  A key innovation is the "Omni-modal Live Streaming Mechanism." This involves: **Online Modality Encoders/Decoders:**  The offline encoders and decoders are transformed into online versions to handle streaming inputs and outputs. **Time-Division Multiplexing (TDM):** A TDM mechanism within the LLM backbone processes omni-modal streams. It divides parallel streams (video, audio) into sequential information within short time slices.  **Configurable Speech Modeling:** A multimodal system prompt (including text and audio prompts) allows for flexible voice configuration during inference, enabling voice cloning and description-based voice creation.
 
-**MiniCPM-o 4.5**, released on February 3, 2026 (technical report: April 29), evolves this family toward real-time full-duplex omni-modal interaction. It retains streaming vision, speech, and text while improving simultaneous perception and generation; the update belongs here because it extends the same time-multiplexed, end-to-end omni-modal lineage. [Paper](https://arxiv.org/abs/2604.27393) · [Repository](https://github.com/OpenBMB/MiniCPM-V) ⭐ 27,137 | 🐛 66 | 🌐 Python | 📅 2026-11-09
+**MiniCPM-o 4.5**, released on February 3, 2026 (technical report: April 29), evolves this family toward real-time full-duplex omni-modal interaction. It retains streaming vision, speech, and text while improving simultaneous perception and generation; the update belongs here because it extends the same time-multiplexed, end-to-end omni-modal lineage. [Paper](https://arxiv.org/abs/2604.27393) · [Repository](https://github.com/OpenBMB/MiniCPM-V) ⭐ 27,143 | 🐛 66 | 🌐 Python | 📅 2026-11-09
 
 </details>
 
@@ -2923,7 +2923,7 @@ MiniCPM-o-2.6 employs an end-to-end omni-modal architecture.  It integrates seve
 Eagle 2 is a family of vision-language models (VLMs) developed with a data-centric approach, focusing on post-training data strategies to achieve state-of-the-art performance. The models build upon open-source components and prioritize data diversity and quality, using a three-stage training recipe and a tiled mixture of vision encoders (MoVE) architecture, achieving results that match or surpass those of larger, proprietary models.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2501.14818-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2501.14818)
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/NVlabs/EAGLE) ⭐ 3,837 | 🐛 65 | 🌐 Python | 📅 2026-11-07
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/NVlabs/EAGLE) ⭐ 3,848 | 🐛 65 | 🌐 Python | 📅 2026-11-07
 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/nvidia/Eagle2-9B)<br>
 Zhiqi Li, Guo Chen, Shilong Liu, Shihao Wang, Yilin Zhao, Subhashree Radhakrishnan, Nadine Chang, Matthieu Le, De-An Huang, Ilia Karmanov, Lukas Voegtle, Jose M. Alvarez, Bryan Catanzaro, Jan Kautz, Andrew Tao, Vibashan VS, Yishen Ji, Shiyi Lan, Hao Zhang, Karan Sapra, Amala Deshmukh, Tuomas Rintamaki, Philipp Fischer, Timo Roman, Tong Lu, Guilin Liu, Zhiding Yu
 
@@ -3099,7 +3099,7 @@ Nahid Alam, Karthik Reddy Kanjula, Bala Krishna S Vegesna, S M Iftekhar Uddin, D
 InternVL 2.5 is an advanced Multimodal Large Language Model (MLLM) series that builds upon InternVL 2.0, maintaining its core architecture while enhancing training and testing strategies, and data quality, to rival leading commercial models like GPT-4o and Claude-3.5-Sonnet.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2412.05271-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2412.05271)
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/OpenGVLab/InternVL) ⭐ 10,169 | 🐛 318 | 🌐 Python | 📅 2025-09-22
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/OpenGVLab/InternVL) ⭐ 10,168 | 🐛 318 | 🌐 Python | 📅 2025-09-22
 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/OpenGVLab/InternVL2_5-78B)<br>
 Zhe Chen, Weiyun Wang, Yue Cao, Yangzhou Liu, Zhangwei Gao, Erfei Cui, Jinguo Zhu, Shenglong Ye, Hao Tian, Zhaoyang Liu, Lixin Gu, Xuehui Wang, Qingyun Li, Yimin Ren, Zixuan Chen, Jiapeng Luo, Jiahao Wang, Tan Jiang, Bo Wang, Conghui He, Botian Shi, Xingcheng Zhang, Han Lv, Yi Wang, Wenqi Shao, Pei Chu, Zhongying Tu, Tong He, Zhiyong Wu, Huipeng Deng, Jiaye Ge, Kai Chen, Kaipeng Zhang, Limin Wang, Min Dou, Lewei Lu, Xizhou Zhu, Tong Lu, Dahua Lin, Yu Qiao, Jifeng Dai, Wenhai Wang
 
@@ -3123,7 +3123,7 @@ Zhe Chen, Weiyun Wang, Yue Cao, Yangzhou Liu, Zhangwei Gao, Erfei Cui, Jinguo Zh
 PaliGemma 2 is an upgraded family of open Vision-Language Models (VLMs) based on Gemma 2 language models, combined with the SigLIP-So400m vision encoder. It offers models in three sizes (3B, 10B, 28B) and three resolutions (224px², 448px², 896px²), trained in multiple stages for broad knowledge transfer.  PaliGemma 2 achieves state-of-the-art results on various tasks, including OCR-related challenges like table/molecular/music score recognition, and long-form captioning.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2412.03555-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2412.03555)
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/paligemma/README.md) ⭐ 3,572 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2025-05-19
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/paligemma/README.md) ⭐ 3,573 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2025-05-19
 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/collections/google/paligemma-2-release-67500e1e1dbfdd4dee27ba48)<br>
 Andreas Steiner, André Susano Pinto, Michael Tschannen, Daniel Keysers, Xiao Wang, Yonatan Bitton, Alexey Gritsenko, Matthias Minderer, Anthony Sherbondy, Shangbang Long, Siyang Qin, Reeve Ingle, Emanuele Bugliarello, Sahar Kazemzadeh, Thomas Mesnard, Ibrahim Alabdulmohsin, Lucas Beyer and Xiaohua Zhai
 
@@ -3146,7 +3146,7 @@ PaliGemma 2 closely follows the architecture of its predecessor, PaliGemma.  It 
 
 ShowUI is a lightweight 2B vision-language-action model built on Qwen2-VL for screenshot grounding and GUI navigation. It reduces redundant screenshot tokens through UI-guided selection and unifies grounding and navigation examples as interleaved vision-language-action streams.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2411.17465-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2411.17465) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/showlab/ShowUI) ⭐ 1,929 | 🐛 19 | 🌐 Python | 📅 2026-04-24 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/showlab/ShowUI-2B)
+[![arXiv](https://img.shields.io/badge/arXiv-2411.17465-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2411.17465) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/showlab/ShowUI) ⭐ 1,930 | 🐛 19 | 🌐 Python | 📅 2026-04-24 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)](https://huggingface.co/showlab/ShowUI-2B)
 
 Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai, Weixian Lei, Lijuan Wang, Mike Zheng Shou<br>
 **Released:** 2024-11-26
@@ -3175,7 +3175,7 @@ The instruction mixture covers web, mobile, and desktop interfaces and combines 
 SmolVLM is a 2B parameter vision-language model (VLM) that achieves state-of-the-art performance for its memory footprint, offering a small, fast, and memory-efficient solution for multimodal tasks.  It is fully open-source, with all model checkpoints, datasets, training recipes, and tools released under the Apache 2.0 license, enabling local deployment, reduced inference costs, and user customization.
 
 [![arXiv](https://img.shields.io/badge/Blog-SmolVLM%20Blog-b31b1b.svg?style=flat-square)](https://huggingface.co/blog/smolvlm)
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/huggingface/smollm) ⭐ 3,951 | 🐛 63 | 🌐 Python | 📅 2026-10-06
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/huggingface/smollm) ⭐ 3,953 | 🐛 63 | 🌐 Python | 📅 2026-10-06
 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct)<br>
 Andres Marafioti, Merve Noyan, Miquel Farré, Elie Bakouch, Pedro Cuenca
 
@@ -3420,7 +3420,7 @@ Meta
 NVLM 1.0 is a family of multimodal large language models (LLMs) achieving state-of-the-art results on vision-language tasks, rivaling proprietary and open-access models. It demonstrates improved text-only performance after multimodal training and offers a comprehensive comparison of decoder-only and cross-attention-based architectures, introducing a novel hybrid architecture and a 1-D tile-tagging design for high-resolution images.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2409.11402-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2409.11402)
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/NVIDIA/Megatron-LM/tree/NVLM-1.0) ⭐ 18,385 | 🐛 2,051 | 🌐 Python | 📅 2026-11-12
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/NVIDIA/Megatron-LM/tree/NVLM-1.0) ⭐ 18,391 | 🐛 2,070 | 🌐 Python | 📅 2026-11-13
 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/nvidia/NVLM-D-72B)<br>
 Wenliang Dai, Nayeon Lee, Boxin Wang, Zhuolin Yang, Zihan Liu, Jon Barker, Tuomas Rintamaki, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping
 
@@ -3444,7 +3444,7 @@ Wenliang Dai, Nayeon Lee, Boxin Wang, Zhuolin Yang, Zihan Liu, Jon Barker, Tuoma
 Pixtral 12B is a 12-billion-parameter multimodal language model developed by Mistral AI, designed to excel in both understanding images and text, achieving leading performance on various multimodal benchmarks. The core of the VLM is built upon the transformer architecture. A strong aspect of the VLM is, Pixtral 12B is trained with a new vision encoder from scratch to natively support variable image sizes and aspect ratios.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2410.07073-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2410.07073)
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/huggingface/transformers/blob/main/docs/source/en/model_doc/pixtral.md) ⭐ 168,910 | 🐛 1,078 | 🌐 Python | 📅 2026-11-12
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/huggingface/transformers/blob/main/docs/source/en/model_doc/pixtral.md) ⭐ 168,948 | 🐛 1,118 | 🌐 Python | 📅 2026-11-13
 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/mistralai/Pixtral-12B-2409)<br>
 Pravesh Agrawal, Szymon Antoniak, Emma Bou Hanna, Baptiste Bout, Devendra Chaplot, Jessica Chudnovsky, et al. (Mistral AI Science Team)
 
@@ -3495,7 +3495,7 @@ Training mixes image-text understanding, video understanding, pure text, and hig
 
 Qwen2-VL is the latest iteration of the Qwen vision-language model family, building upon the Qwen-VL architecture and introducing significant enhancements for improved understanding of images and videos. It excels in various tasks, including visual question answering, dialogue, content creation, and even agent-based control of devices like mobile phones and robots.
 
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen2-VL) ⭐ 20,204 | 🐛 441 | 🌐 Jupyter Notebook | 📅 2026-01-30 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d)<br>
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen2-VL) ⭐ 20,211 | 🐛 441 | 🌐 Jupyter Notebook | 📅 2026-01-30 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d)<br>
 Bai, Jinze and Bai, Shuai and Yang, Shusheng and Wang, Shijie and Tan, Sinan and Wang, Peng and Lin, Junyang and Zhou, Chang and Zhou, Jingren<br>
 
 <!-- architecture-figure:84 -->
@@ -3517,7 +3517,7 @@ Qwen2-VL continues to leverage the core architecture of Qwen-VL, combining a Vis
 
 EAGLE is a family of open-source Multimodal Large Language Models (MLLMs) that leverage a mixture of vision encoders to achieve state-of-the-art performance on various benchmarks, particularly in tasks involving OCR and document understanding. The study focuses on systematically exploring the design space of MLLMs with multiple vision encoders, aiming to identify optimal design choices and improve MLLM perception.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2408.15998-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2408.15998) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/NVlabs/EAGLE) ⭐ 3,837 | 🐛 65 | 🌐 Python | 📅 2026-11-07 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/NVEagle/Eagle-X5-13B-Chat)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-2408.15998-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2408.15998) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/NVlabs/EAGLE) ⭐ 3,848 | 🐛 65 | 🌐 Python | 📅 2026-11-07 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/NVEagle/Eagle-X5-13B-Chat)<br>
 Min Shi, Fuxiao Liu, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An Huang, Hongxu Yin, Karan Sapra, Yaser Yacoob, Humphrey Shi, Bryan Catanzaro, Andrew Tao, Jan Kautz, Zhiding Yu, Guilin Liu<br>
 
 <!-- architecture-figure:85 -->
@@ -3817,7 +3817,7 @@ OMG-LLaVA consists of two main components: a frozen universal perception module 
 
 Cambrian-1 is a family of 8B, 13B, and 34B multimodal LLMs centered on stronger visual representation and spatial grounding. Its Spatial Vision Aggregator dynamically combines complementary high-resolution features while limiting the number of visual tokens passed to the language model.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2406.16860-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2406.16860) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/cambrian-mllm/cambrian) ⭐ 2,013 | 🐛 48 | 🌐 Python | 📅 2025-11-07
+[![arXiv](https://img.shields.io/badge/arXiv-2406.16860-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2406.16860) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/cambrian-mllm/cambrian) ⭐ 2,011 | 🐛 48 | 🌐 Python | 📅 2025-11-07
 
 Shengbang Tong, Ellis Brown, Penghao Wu, Sanghyun Woo, Manoj Middepogu, Sai Charitha Akula, Jihan Yang, Shusheng Yang, Adithya Iyer, Xichen Pan, Ziteng Wang, Rob Fergus, Yann LeCun, Saining Xie<br>
 **Released:** 2024-06-24
@@ -4014,7 +4014,7 @@ The corpus combines licensed text, publicly available text, image-caption pairs,
 
 PaliGemma is a compact, open-source vision-language model designed to be easily transferable to a diverse range of tasks. It combines a powerful SigLIP image encoder with the Gemma-2B language model, achieving strong performance on over 40 diverse tasks, including standard VLM benchmarks, remote-sensing, and segmentation. PaliGemma is pretrained using a multi-stage approach, focusing on maximizing the density of learning signal and providing different checkpoints with varying image resolutions. This versatile foundation model is easily fine-tuned for specific tasks and serves as a valuable tool for researchers and practitioners exploring the capabilities of VLMs.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2407.07726-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2407.07726) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/paligemma/README.md) ⭐ 3,572 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2025-05-19 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/big-vision/paligemma)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-2407.07726-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2407.07726) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/paligemma/README.md) ⭐ 3,573 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2025-05-19 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/big-vision/paligemma)<br>
 Lucas Beyer, Andreas Steiner, André Susano Pinto, Alexander Kolesnikov, Xiao Wang, Daniel Salz, Maxim Neumann, Ibrahim Alabdulmohsin, Michael Tschannen, Emanuele Bugliarello, Thomas Unterthiner, Daniel Keysers, Skanda Koppula, Fangyu Liu, Adam Grycner, Alexey Gritsenko, Neil Houlsby, Manoj Kumar, Keran Rong, Julian Eisenschlos, Rishabh Kabra, Matthias Bauer, Matko Bošnjak, Xi Chen, Matthias Minderer, Paul Voigtlaender, Ioana Bica, Ivana Balazevic, Joan Puigcerver, Pinelopi Papalampidi, Olivier Henaff, Xi Xiong, Radu Soricut, Jeremiah Harmsen, Xiaohua Zhai<br>
 
 <!-- architecture-figure:99 -->
@@ -4079,7 +4079,7 @@ Dongfu Jiang, Xuan He, Huaye Zeng, Cong Wei, Max Ku, Qian Liu, Wenhu Chen<br>
 Moondream is a compact (1.9B parameters) vision-language model (VLM) that prioritizes practical usability and accessibility, offering features like structured output (JSON, XML, Markdown, CSV), improved OCR, and a novel experimental Gaze Detection capability, while maintaining fast performance and ease of deployment.
 
 [![arXiv](https://img.shields.io/badge/Blog-Moondream%20Blog-b31b1b.svg?style=flat-square)](https://moondream.ai/)
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/vikhyat/moondream) ⭐ 10,158 | 🐛 246 | 🌐 Python | 📅 2026-04-20
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/vikhyat/moondream) ⭐ 10,160 | 🐛 246 | 🌐 Python | 📅 2026-04-20
 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/vikhyatk/moondream-next)
 
 <!-- architecture-figure:102 -->
@@ -4169,7 +4169,7 @@ The pretraining corpus is organized into three corresponding data families: web-
 
 DeepSeek-VL, utilizing a hybrid vision encoder combining SigLIP-L and SAM-B, excels in real-world vision-language understanding by efficiently processing high-resolution images and integrating extracted features with a DeepSeek LLM backbone through a two-layer hybrid MLP adapter.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2403.05525-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.05525) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/deepseek-ai/DeepSeek-VL) ⭐ 4,191 | 🐛 49 | 🌐 Python | 📅 2024-04-24
+[![arXiv](https://img.shields.io/badge/arXiv-2403.05525-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.05525) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/deepseek-ai/DeepSeek-VL) ⭐ 4,192 | 🐛 49 | 🌐 Python | 📅 2024-04-24
 
 Haoyu Lu, Wen Liu, Bo Zhang, Bingxuan Wang, Kai Dong, Bo Liu, Jingxiang Sun, Tongzheng Ren, Zhuoshu Li, Hao Yang, Yaofeng Sun, Chengqi Deng, Hanwei Xu, Zhenda Xie, Chong Ruan<br>
 
@@ -4262,7 +4262,7 @@ Haotian Liu, Chunyuan Li, Yuheng Li, Bo Li, Yuanhan Zhang, Sheng Shen, Yong Jae 
 
 MiniCPM-V is a series of efficient Multimodal Large Language Models (MLLMs) designed for deployment on end-side devices like mobile phones and personal computers. The latest iteration, MiniCPM-Llama3-V 2.5, achieves performance comparable to GPT-4V, Gemini Pro, and Claude 3 while being significantly smaller and more efficient, demonstrating the feasibility of deploying powerful MLLMs on resource-constrained devices.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2408.01800-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2408.01800) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/OpenBMB/MiniCPM-V) ⭐ 27,137 | 🐛 66 | 🌐 Python | 📅 2026-11-09 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/openbmb/MiniCPM-V-2_6)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-2408.01800-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2408.01800) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/OpenBMB/MiniCPM-V) ⭐ 27,143 | 🐛 66 | 🌐 Python | 📅 2026-11-09 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/openbmb/MiniCPM-V-2_6)<br>
 Yuan Yao, Tianyu Yu, Ao Zhang, Chongyi Wang, Junbo Cui, Hongji Zhu, Tianchi Cai, Haoyu Li, Weilin Zhao, Zhihui He, Qianyu Chen, Huarong Zhou, Zhensheng Zou, Haoye Zhang, Shengding Hu, Zhi Zheng, Jie Zhou, Jie Cai, Xu Han, Guoyang Zeng, Dahai Li, Zhiyuan Liu, Maosong Sun<br>
 
 <!-- architecture-figure:108 -->
@@ -4283,8 +4283,8 @@ Yuan Yao, Tianyu Yu, Ao Zhang, Chongyi Wang, Junbo Cui, Hongji Zhu, Tianchi Cai,
 
 MiniCPM-V focuses on achieving a balance between performance and efficiency, crucial for real-world applications on end-side devices. The model architecture consists of three key modules: a visual encoder, a compression layer, and an LLM. For the visual encoder, MiniCPM-V utilizes SigLIP SoViT-400m/14, chosen for its efficiency and effectiveness. To handle high-resolution images with varying aspect ratios, the model employs an adaptive visual encoding approach. This involves dividing the input image into slices that better match the ViT's pre-training settings in terms of resolution and aspect ratio. A score function is used to select the optimal partition of slices, ensuring a good match with the ViT's pre-training. Each slice is then resized proportionally and interpolated to fit the ViT's input size. After visual encoding, each slice is represented by 1024 tokens, resulting in a large number of tokens for multiple slices. To address this, a token compression module is employed, using one-layer cross-attention with a moderate number of queries to compress the visual tokens of each slice into 64 or 96 tokens. This significantly reduces the computational cost and memory footprint, making the model suitable for end-side deployment. A spatial schema is also introduced to indicate the position of each slice relative to the whole image, further enhancing the model's understanding of spatial relationships. The compressed visual tokens, along with the text input, are then fed into the LLM, which is based on MiniCPM 2B for earlier versions and Llama3-Instruct 8B for MiniCPM-Llama3-V 2.5. The training process consists of three phases: pre-training, supervised fine-tuning, and RLAIF-V (Reinforcement Learning from AI Feedback for Vision). Pre-training aims to align the visual modules with the LLM's input space and learn foundational multimodal knowledge. It involves three stages: warming up the compression layer, extending the input resolution of the visual encoder, and training the visual modules with the adaptive visual encoding strategy. Supervised fine-tuning further enhances the model's knowledge and interaction capabilities using high-quality visual question answering datasets. The SFT data is categorized into two parts: one focusing on basic recognition capabilities and the other on generating detailed responses and following instructions. Finally, RLAIF-V is employed to mitigate the hallucination problem common in MLLMs. This involves generating multiple responses for an instruction, evaluating their correctness using a divide-and-conquer strategy, and then optimizing the model using Direct Preference Optimization (DPO) on a preference dataset. MiniCPM-V demonstrates impressive performance on various benchmarks, including general multimodal benchmarks, OCR benchmarks, and multilingual multimodal interaction, while being efficient enough for deployment on mobile phones. This highlights the potential of pushing the boundaries of end-side MLLMs and bringing powerful AI capabilities to user devices.
 
-**MiniCPM-V 4.5**, released on August 26, 2025 (technical report: September 16), keeps the family's efficient visual pathway and compact language backbone while introducing a unified 3D-Resampler for highly compressed image and video encoding, a unified document-knowledge and text-recognition recipe, and hybrid reinforcement learning for short and long reasoning modes. **MiniCPM-V 4.6**, released in May 2026, returns to an approximately 1B edge footprint with SigLIP2-400M, Qwen3.5-0.8B, LLaVA-UHD v4, and switchable 4x/16x visual-token compression. Both are lineage updates rather than separate top-level architectures. [4.5 paper](https://arxiv.org/abs/2509.18154) · [4.6 model](https://huggingface.co/openbmb/MiniCPM-V-4.6) · [Repository](https://github.com/OpenBMB/MiniCPM-V) ⭐ 27,137 | 🐛 66 | 🌐 Python | 📅 2026-11-09
-**MiniCPM-V 4.7** (October 12, 2026) adds a 35B/A3B MoE variant alongside the compact model. Early compression inside the vision encoder supports mixed 4x/16x visual-token reduction. Lookahead Expert Scheduling prefetches experts without changing the router's chosen computation; layer-wise quantization and the October 15 DSpark heads target local inference. The release links Self-Replay Fine-Tuning for downstream adaptation but does not disclose its complete pretraining mixture. The figures above depict the original family and 4.5, not a new 4.7 schematic; the reviewed 4.7 card publishes deployment and evaluation graphics rather than a model architecture figure. [4.7 model](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) · [Release history](https://github.com/OpenBMB/MiniCPM-V) ⭐ 27,137 | 🐛 66 | 🌐 Python | 📅 2026-11-09
+**MiniCPM-V 4.5**, released on August 26, 2025 (technical report: September 16), keeps the family's efficient visual pathway and compact language backbone while introducing a unified 3D-Resampler for highly compressed image and video encoding, a unified document-knowledge and text-recognition recipe, and hybrid reinforcement learning for short and long reasoning modes. **MiniCPM-V 4.6**, released in May 2026, returns to an approximately 1B edge footprint with SigLIP2-400M, Qwen3.5-0.8B, LLaVA-UHD v4, and switchable 4x/16x visual-token compression. Both are lineage updates rather than separate top-level architectures. [4.5 paper](https://arxiv.org/abs/2509.18154) · [4.6 model](https://huggingface.co/openbmb/MiniCPM-V-4.6) · [Repository](https://github.com/OpenBMB/MiniCPM-V) ⭐ 27,143 | 🐛 66 | 🌐 Python | 📅 2026-11-09
+**MiniCPM-V 4.7** (October 12, 2026) adds a 35B/A3B MoE variant alongside the compact model. Early compression inside the vision encoder supports mixed 4x/16x visual-token reduction. Lookahead Expert Scheduling prefetches experts without changing the router's chosen computation; layer-wise quantization and the October 15 DSpark heads target local inference. The release links Self-Replay Fine-Tuning for downstream adaptation but does not disclose its complete pretraining mixture. The figures above depict the original family and 4.5, not a new 4.7 schematic; the reviewed 4.7 card publishes deployment and evaluation graphics rather than a model architecture figure. [4.7 model](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) · [Release history](https://github.com/OpenBMB/MiniCPM-V) ⭐ 27,143 | 🐛 66 | 🌐 Python | 📅 2026-11-09
 
 </details>
 
@@ -4358,7 +4358,7 @@ Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Jinfa Huang, Junwu 
 
 moondream1 and moondream2 are vision-language models with moondream2 building upon moondream1's SigLIP vision encoder and Phi-1.5 language backbone by incorporating an MLP projector for enhanced visual and textual representation alignment.
 
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/vikhyat/moondream) ⭐ 10,158 | 🐛 246 | 🌐 Python | 📅 2026-04-20 [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/vikhyatk/moondream2)<br>
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/vikhyat/moondream) ⭐ 10,160 | 🐛 246 | 🌐 Python | 📅 2026-04-20 [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/vikhyatk/moondream2)<br>
 @vikhyatk
 
 <!-- architecture-figure:112 -->
@@ -4596,7 +4596,7 @@ Shilong Liu, Hao Cheng, Haotian Liu, Hao Zhang, Feng Li, Tianhe Ren, Xueyan Zou,
 
 OtterHD-8B, inspired by Fuyu-8B, directly integrates pixel-level information from high-resolution images (up to 1024x1024 pixels) into its language model using position embeddings, eliminating the need for a separate vision encoder and enabling precise interpretation of detailed visual inputs alongside textual instructions.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2311.04219v1-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.04219v1) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/luodian/otter) ⭐ 3,440 | 🐛 65 | 🌐 Python | 📅 2024-03-05
+[![arXiv](https://img.shields.io/badge/arXiv-2311.04219v1-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.04219v1) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/luodian/otter) ⭐ 3,441 | 🐛 65 | 🌐 Python | 📅 2024-03-05
 
 Bo Li, Peiyuan Zhang, Jingkang Yang, Yuanhan Zhang, Fanyi Pu, Ziwei Liu
 
@@ -4790,7 +4790,7 @@ Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee
 
 CogVLM enhances pretrained language models with a dedicated visual expert module, incorporating a QKV matrix and MLP within each layer to achieve deep visual-language feature alignment, enabling superior performance in multimodal tasks such as image captioning and visual question answering.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2311.03079v2-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.03079v2) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thudm/cogvlm) ⭐ 6,743 | 🐛 69 | 🌐 Python | 📅 2024-05-29<br>
+[![arXiv](https://img.shields.io/badge/arXiv-2311.03079v2-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.03079v2) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thudm/cogvlm) ⭐ 6,742 | 🐛 69 | 🌐 Python | 📅 2024-05-29<br>
 Weihan Wang, Qingsong Lv, Wenmeng Yu, Wenyi Hong, Ji Qi, Yan Wang, Junhui Ji, Zhuoyi Yang, Lei Zhao, Xixuan Song, Jiazheng Xu, Bin Xu, Juanzi Li, Yuxiao Dong, Ming Ding, Jie Tang
 
 <!-- architecture-figure:132 -->
@@ -4984,7 +4984,7 @@ Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwa
 
 LLaVA seamlessly integrates a pre-trained language model (Vicuna) with a visual encoder (CLIP) using a simple linear layer, creating a robust architecture capable of effectively processing and understanding language-image instructions.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2304.08485) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/haotian-liu/LLaVA) ⭐ 25,076 | 🐛 1,140 | 🌐 Python | 📅 2024-08-12
+[![arXiv](https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2304.08485) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/haotian-liu/LLaVA) ⭐ 25,078 | 🐛 1,140 | 🌐 Python | 📅 2024-08-12
 
 Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
 
@@ -5007,7 +5007,7 @@ Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
 
 MiniGPT-4 seamlessly blends visual and language processing by connecting a pretrained Vision Transformer and Q-Former to a frozen Vicuna LLM using a single linear projection layer, achieving impressive vision-language understanding through a two-stage training approach focused on efficient alignment and enhanced generation quality.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2304.10592v2-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2304.10592v2) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/vision-cair/minigpt-4) ⭐ 25,560 | 🐛 375 | 🌐 Python | 📅 2024-09-02<br>
+[![arXiv](https://img.shields.io/badge/arXiv-2304.10592v2-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2304.10592v2) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/vision-cair/minigpt-4) ⭐ 25,559 | 🐛 375 | 🌐 Python | 📅 2024-09-02<br>
 Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li, Mohamed Elhoseiny
 
 <!-- architecture-figure:142 -->
@@ -5157,7 +5157,7 @@ Zhiyang Xu, Ying Shen, Lifu Huang
 
 PaLI distinguishes itself as a jointly-scaled multilingual language-image model that utilizes a unified interface to process both unimodal and multimodal tasks, integrating a powerful ViT-e visual encoder with an mT5-based text encoder-decoder Transformer for comprehensive language and vision understanding.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2209.06794-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2209.06794) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/big_vision) ⭐ 3,572 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2025-05-19<br>
+[![arXiv](https://img.shields.io/badge/arXiv-2209.06794-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2209.06794) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/big_vision) ⭐ 3,573 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2025-05-19<br>
 Xi Chen, Xiao Wang, Lucas Beyer, Alexander Kolesnikov, Jialin Wu, Paul Voigtlaender, Basil Mustafa, Sebastian Goodman, Ibrahim Alabdulmohsin, Piotr Padlewski, Daniel Salz, Xi Xiong, Daniel Vlasic, Filip Pavetic, Keran Rong, Tianli Yu, Daniel Keysers, Xiaohua Zhai, Radu Soricut
 
 <!-- architecture-figure:149 -->
@@ -5267,7 +5267,7 @@ Maria Tsimpoukelli, Jacob Menick, Serkan Cabi, S. M. Ali Eslami, Oriol Vinyals, 
 
 CLIP leverages a contrastive learning approach, training separate image and text encoders on a massive dataset of 400 million image-text pairs to predict the most relevant captions for images, enabling impressive zero-shot transfer capabilities to various downstream tasks without requiring task-specific training data.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2103.00020-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.00020) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/openai/CLIP) ⭐ 34,601 | 🐛 273 | 🌐 Jupyter Notebook | 📅 2026-03-25<br>
+[![arXiv](https://img.shields.io/badge/arXiv-2103.00020-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.00020) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/openai/CLIP) ⭐ 34,605 | 🐛 273 | 🌐 Jupyter Notebook | 📅 2026-03-25<br>
 Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever
 
 <!-- architecture-figure:154 -->
@@ -5289,7 +5289,7 @@ Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini
 
 The Vision Transformer (ViT) revolutionizes image recognition by applying the Transformer architecture to images, processing them as a sequence of fixed-size patches, thereby demonstrating that image recognition can benefit from the power of transformers, surpassing traditional convolutional neural network (CNN) approaches with the aid of large-scale training datasets.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2010.11929v2-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2010.11929v2) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/vision_transformer) ⭐ 12,772 | 🐛 137 | 🌐 Jupyter Notebook | 📅 2026-10-01<br>
+[![arXiv](https://img.shields.io/badge/arXiv-2010.11929v2-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2010.11929v2) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/vision_transformer) ⭐ 12,773 | 🐛 137 | 🌐 Jupyter Notebook | 📅 2026-10-01<br>
 Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
 
 <!-- architecture-figure:155 -->
@@ -5315,4 +5315,4 @@ Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
