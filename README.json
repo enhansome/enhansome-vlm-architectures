@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-11-19T19:30:41.376Z",
+    "last_updated": "2026-11-20T19:09:12.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated visual catalog of 200+ vision-language model (VLM/MLLM) architectures: papers, diagrams, training recipes, datasets, and a release timeline for multimodal AI agents.",
@@ -13,7 +13,7 @@
       "open_issues": 2,
       "owner": "gokayfem",
       "repo": "awesome-vlm-architectures",
-      "stars": 1369,
+      "stars": 1368,
       "topics": [
         "ai-agents",
         "architecture-diagrams",
